@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minu CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="cv">
+        <h1 class="page-title">CV</h1>
+
+        <header class="profile">
+            <div class="profile-info">
+                <div class="intro">
+                    <h2>Merike Iivos</h2>
+                    <p>Olen motiveeritud ja õpihimuline noor.</p>
+                </div>
+
+                <div class="contact">
+                    <p><strong>Nimi:</strong> Merike Iivos</p>
+                    <p><strong>Sünniaeg:</strong> 20.01.2005</p>
+                    <p><strong>E-mail:</strong> sinu@email.ee</p>
+                </div>
+            </div>
+
+            <img
+                class="profile-photo"
+                src="images/cv-foto.jpg"
+                alt="Minu foto"
+            >
+        </header>
+
+        <section class="cv-section">
+            <h2>Haridus</h2>
+            <p>2012–2021 Kunda Ühisgümnaasium</p>
+            <p>2021–2024 Rakvere Ametikool</p>
+            <p>2024–... Tallinna Tehnikaülikool</p>
+        </section>
+
+        <section class="cv-section">
+            <h2>Töökogemus</h2>
+            <p>Tarvas Invest OÜ</p>
+        </section>
+
+        <section class="cv-section">
+            <h2>Lisad</h2>
+            <p>Eesti keel</p>
+            <p>Inglise keel</p>
+        </section>
+
+        <footer class="socials">
+            <a href="https://www.instagram.com/"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Instagram">◎</a>
+            <a href="https://www.facebook.com/"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Facebook">f</a>
+        </footer>
+    </main>
+
+</body>
+</html>
+<div class="karusell">
+  <img
+    id="karuselli-pilt"
+    src="pildid/pilt1.jpg"
+    alt="Minu pilt"
+    title="Klõpsa järgmise pildi nägemiseks"
+  >
+</div>
+
+<script src="script.js"></script>

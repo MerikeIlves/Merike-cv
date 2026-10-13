@@ -1,0 +1,16 @@
+{
+  "nimi": "Merike",
+  "perekonnanimi": "Ilves",
+  "vanus": 21,
+  "epost": "merike.ilves@tktk.ee",
+  "oskused": [
+    "HTML5 & CSS3",
+    "JavaScript (ES6+)",
+    "Git & GitHub",
+    "JSON andmetöötlus"
+  ],
+  "keeled": [
+    { "keel": "Eesti keel", "tase": "Emakeel" },
+    { "keel": "Inglise keel", "tase": "Kõrgtase (C1)" }
+  ]
+}
