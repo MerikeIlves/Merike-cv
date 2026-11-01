@@ -1,0 +1,10 @@
+minu-cv/
+├── data/
+│   └── cv.json
+├── views/
+│   └── cv.ejs
+├── public/
+│   └── style.css
+├── app.js
+├── package.json
+└── .gitignore
